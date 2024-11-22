@@ -1,6 +1,6 @@
 ## Hi there, I'm Chelsea! 👋 
 
-About me
+### About me
 - 🎓 Master’s student in Computer Science at NEU
 - 😍 Love Java!
 - 🧚‍♀️ Former product manager at Alibaba, with 3 years of turning tech into magic
