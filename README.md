@@ -7,4 +7,4 @@
 - 🤩 A proud dog and cat person, foodie, wanderer (19 countries and counting!), and outdoor adventurer
 - 📮 Email me at: chelsea.yuxichen@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chelsea&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChelseaYuxiChen&layout=compact)
